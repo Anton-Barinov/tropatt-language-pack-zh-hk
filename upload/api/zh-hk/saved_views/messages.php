@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => '載入中…',
+  'load_error' => '載入中 錯誤',
+  'empty' => 'No 已儲存 views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => '編輯',
+  'archive' => '封存',
+  'applied' => 'View applied:',
+  'apply_error' => '錯誤 applying view',
+  'save_as' => '儲存 as 新增 view',
+  'edit_title' => '編輯 view',
+  'title_required' => '輸入 a view 名稱',
+  'update_error' => '錯誤 updating view',
+  'create_error' => '錯誤 creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => '錯誤',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => '錯誤 duplicating',
+  'confirm_archive' => '封存 此 view?',
+  'archived' => 'View 已封存',
+  'archive_error' => '錯誤 archiving',
+);

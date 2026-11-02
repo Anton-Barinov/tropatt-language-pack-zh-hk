@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Workflow rules 清單',
+  'created' => 'Workflow rule 已建立',
+  'detail' => 'Workflow rule 詳細資料',
+  'updated' => 'Workflow rule 已更新',
+  'deleted' => 'Workflow rule 已刪除',
+  'test_run' => 'Test run 已完成',
+  'runs' => 'Workflow runs 清單',
+  'not_found' => 'Workflow rule 不 已找到',
+  'invalid_trigger_code' => '無效 trigger_code',
+  'invalid_action_code' => '無效 action_code',
+  'payload_object' => 'Payload must be an object',
+  'max_255' => '最大 255 characters',
+  'action_no_task_or_assignee' => 'No 任務 或 assignee selected',
+  'action_no_task_or_status' => 'No 任務 或 新增 狀態 selected',
+  'default_notification_title' => 'Automation 通知',
+  'action_no_notification_recipient' => 'No 通知 recipient selected',
+  'action_no_task_or_comment' => 'No 任務 或 留言 文字 selected',
+  'action_no_user_for_reminder' => 'No 使用者 selected 供 reminder',
+  'action_no_follow_up_title' => 'Follow-up 任務 標題 不 specified',
+  'action_invalid_webhook_url' => 'Provide a 有效 http/https webhook URL',
+  'action_no_task_for_sla' => 'No 任務 selected 供 SLA',
+  'action_no_manager' => 'No manager 已找到 供 executor',
+  'manager_notification_title' => 'Long work 無 a break',
+  'manager_notification_body' => '{user}: {total} 分鐘 logged 在 任務 «{task}» 在 {day} (threshold {threshold} 分鐘).',
+  'test_task_title' => 'Test 任務',
+  'follow_up_description' => '已建立 由 automation rule 從 任務',
+  'follow_up_prefix' => 'Follow-up:',
+  'unknown_action' => '未知 操作:',
+);

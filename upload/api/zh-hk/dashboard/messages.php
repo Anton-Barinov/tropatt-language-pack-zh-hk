@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => '儀表板 widgets',
+  'widgets_saved' => '儀表板 widgets 已更新',
+  'widgets_required' => 'Widgets 清單 是 必填',
+  'summary' => '儀表板 summary',
+  'sticky_notes_title' => 'Sticky Notes',
+  'sticky_notes_loading' => '載入中 notes...',
+  'sticky_notes_error' => '失敗 至 load notes',
+  'sticky_notes_empty' => 'No notes yet',
+  'sticky_notes_add' => '+ Add note',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => '封存',
+  'sticky_notes_archive_confirm' => '封存 note?',
+  'sticky_notes_content_required' => '輸入 note 文字',
+  'sticky_notes_saved' => 'Note 已更新',
+  'sticky_notes_save_error' => '儲存 錯誤',
+  'sticky_notes_update_error' => '更新 錯誤',
+  'sticky_notes_archived' => 'Note 已封存',
+  'sticky_notes_archive_error' => '封存 錯誤',
+  'sticky_notes_create_title' => '新增 note',
+  'sticky_notes_content_label' => 'Note 文字',
+  'sticky_notes_placeholder' => 'Write a note...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'Note 已建立',
+  'sticky_notes_create_error' => 'Creation 錯誤',
+  'insights' => '儀表板 widget metrics',
+  'insights_unknown_widget' => '未知 儀表板 widget',
+);

@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => '儀表板',
+  'ideas' => '想法',
+  'tasks' => '任務',
+  'day' => 'My day',
+  'week' => 'My 週',
+  'kanban' => '看板',
+  'gantt' => '甘特圖',
+  'projects' => '專案',
+  'calendar' => '行事曆',
+  'counterparties' => '往來對象',
+  'teams' => '團隊',
+  'knowledge' => '知識庫',
+  'analytics' => '分析',
+  'notifications' => '通知',
+  'admin' => '管理',
+  'intake' => '收件匣',
+  'cycles' => '週期（Sprint）',
+  'project_modules' => '專案模組',
+  'admin_estimates' => '任務估算',
+  'admin_modules' => '模組',
+  'chat' => '聊天',
+  'docs' => '文件',
+  'api' => '文件',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

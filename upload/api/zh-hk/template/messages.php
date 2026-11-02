@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => '任務 範本 清單',
+  'task_created' => '任務 範本 已建立',
+  'task_detail' => '任務 範本',
+  'task_updated' => '任務 範本 已更新',
+  'task_deleted' => '任務 範本 已刪除',
+  'project_list' => '專案 範本 清單',
+  'project_created' => '專案 範本 已建立',
+  'project_detail' => '專案 範本',
+  'project_updated' => '專案 範本 已更新',
+  'project_deleted' => '專案 範本 已刪除',
+  'max_255' => '最大 255 characters',
+  'payload_object' => 'payload 欄位 must be an object',
+  'not_found' => '範本 不 已找到',
+  'empty_tasks' => 'No 任務 範本',
+  'empty_projects' => 'No 專案 範本',
+  'load_error_tasks' => '失敗 至 load 任務 範本',
+  'load_error_projects' => '失敗 至 load 專案 範本',
+  'btn_delete' => '刪除',
+  'created_task_notify' => '任務 範本 已建立',
+  'created_project_notify' => '專案 範本 已建立',
+  'error_create' => '建立 錯誤',
+  'confirm_delete_task' => '刪除 任務 範本?',
+  'confirm_delete_project' => '刪除 專案 範本?',
+  'deleted_task_notify' => '任務 範本 已刪除',
+  'deleted_project_notify' => '專案 範本 已刪除',
+  'error_delete' => '刪除 錯誤',
+  'task_applied' => '任務 已建立 從 範本',
+  'project_applied' => '專案 已建立 從 範本',
+);

@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-zh-hk",
+    "full_code": "crm.language-pack-zh-hk",
+    "vendor": "crm",
+    "code": "zh-hk",
+    "title": "Cantonese (Hong Kong) Language Pack (廣東話)",
+    "native_name": "廣東話",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM 廣東話 complete LTR localization pack.",
+    "signature": "c1cc7cf9ad6de67f0dca908b3324a7e4645f7be1c30e19709ee3f60f37ddb547"
+}

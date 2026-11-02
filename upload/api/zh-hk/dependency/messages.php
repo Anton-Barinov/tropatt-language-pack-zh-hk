@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency 清單',
+  'created' => 'Dependency 已建立',
+  'deleted' => 'Dependency 已刪除',
+  'not_found' => 'Dependency 不 已找到',
+  'task_not_found' => 'One 的 任務 was 不 已找到',
+  'invalid_type' => '無效 dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => '任務 無法 depend 在 itself',
+  'different_projects' => 'Dependencies can 僅 be 已建立 between 任務 於 same 專案',
+  'empty' => 'No dependencies',
+  'th_type' => '類型',
+  'th_task' => '任務',
+  'btn_delete' => '刪除',
+  'load_error' => '失敗 至 load dependencies',
+  'prompt_task_id' => '任務 ID (public_id)',
+  'task_id_empty' => '任務 ID 無法 be 空白',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => '刪除 dependency?',
+  'deleted_notify' => 'Dependency 已刪除',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would 建立 a cycle between 任務',
+);
